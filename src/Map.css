@@ -1,0 +1,10 @@
+path {
+  fill: #CCCCCC;
+  transition: fill 0.3s ease;
+  stroke: #646464;
+  stroke-width: 2; 
+}
+  
+  path:hover {
+    fill: red;
+  }

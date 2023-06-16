@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: url('/images/travel-theme-background.jpg');
+  padding: 20px;
+  color: white;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.Logout-button {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.Login-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.Login-section {
+  padding: 20px;
+}
+
+.User-info {
+  padding: 20px;
+  color: #333;
+}
